@@ -60,8 +60,6 @@ Being able to reproduce the build process on every developer machine and any oth
 
 * Are you using libraries you project does not need?
 
-* Is the project using multidex?
-
 * Are the external dependencies up to date?
 
 * Are you respecting every third party library license?
